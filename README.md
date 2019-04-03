@@ -1,4 +1,4 @@
-##LabEq – CONS laboratory equipment management
+## LabEq – CONS laboratory equipment management
 
 Based on web application – CONS laboratory equipment records.
 
